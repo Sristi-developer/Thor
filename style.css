@@ -1,0 +1,28 @@
+/* this is how to comment*/
+
+/*selector{
+    property: value;
+}*/
+
+body{
+    background-color: black;
+}
+/* class = . id= #*/
+
+.cat{
+    color:turquoise;
+}
+#secondH1{
+    color:rgb(247, 92, 247);
+}
+
+p{
+    color: yellow;
+}
+
+.pink{
+    color: pink;
+}
+.red{
+    color: red;
+}
